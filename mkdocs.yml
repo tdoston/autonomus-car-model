@@ -1,0 +1,8 @@
+site_name: Project Documentation
+nav:
+    - Home: index.md
+    - Sign Recognition: cascade.md
+    - Traffic Light: traffic-sign.md
+    - Test sensors: test.md
+#theme: readthedocs
+#theme: bootswatch
