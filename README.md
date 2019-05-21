@@ -1,6 +1,6 @@
 ### Capstone Design Autonomus Car Model Documentation
 
-For full documentation visit [Docs](https://github.com/tdoston/autonomus-car-model/docs).
+For full documentation visit [Docs](https://github.com/tdoston/autonomus-car-model/tree/master/docs).
 
 
 ### Overview
